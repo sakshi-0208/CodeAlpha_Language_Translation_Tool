@@ -1,6 +1,7 @@
 Language Translation Tool
 
-A simple web-based Language Translation Tool built using Python and Streamlit.It allows users to translate text between multiple languages using Google Translate API and also provides text-to-speech output.
+A simple web-based Language Translation Tool built using Python and Streamlit. It allows users to translate text between multiple languages using Google Translate API and also provides text-to-speech output.
+
 
 1. Features
    1) Translate text between multiple languages
@@ -14,6 +15,7 @@ A simple web-based Language Translation Tool built using Python and Streamlit.It
    5) Download translated text
 
 
+
 2. Tech Stack
    
   1) Python
@@ -25,22 +27,19 @@ A simple web-based Language Translation Tool built using Python and Streamlit.It
   4) gTTS (Text-to-Speech)
 
 
-3. Installation
 
-   1) Clone the repository
+3. How to Run This Project
    
-      git clone https://github.com/your-username/language-translation-tool.git
-      cd language-translation-tool
-
-   2) Install dependencies
-
+   1) Download or open the project folder
+      
+   3) Install required libraries using:
       pip install -r requirements.txt
 
-  3) Run the application
+   5) Run the app using:
+      streamlit run app.py
 
-     streamlit run app.py
 
-4. How to Use
+5. How to Use
    1) Open the app in browser (http://localhost:8501)
 
    2) Enter the text you want to translate
@@ -53,8 +52,10 @@ A simple web-based Language Translation Tool built using Python and Streamlit.It
 
    6) View translated text + download/coy text or listen audio
   
- 5. Note: If streamlit run app.py does not work, first install Streamlit:
+ 6. Note: If streamlit run app.py does not work, first install Streamlit:
           pip install streamlit
+
+
 
 Author:
 Sakshi Bondre
