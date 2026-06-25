@@ -39,7 +39,7 @@ A simple web-based Language Translation Tool built using Python and Streamlit. I
       streamlit run app.py
 
 
-5. How to Use
+5. How to Use the App
    1) Open the app in browser (http://localhost:8501)
 
    2) Enter the text you want to translate
