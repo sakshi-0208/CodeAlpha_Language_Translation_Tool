@@ -18,13 +18,13 @@ A simple web-based Language Translation Tool built using Python and Streamlit. I
 
 2. Tech Stack
    
-  1) Python
+   1) Python
 
-  2) Streamlit
+   2) Streamlit
   
-  3) Googletrans API
+   3) Googletrans API
      
-  4) gTTS (Text-to-Speech)
+   4) gTTS (Text-to-Speech)
 
 
 
